@@ -3,5 +3,10 @@
     "username": "KingStore",
     "password": "$2a$10$88UNatnbHz6aZ09y1.4lzuNg5Nm74uN6FqwdrFo6ZOYcXLDQ258fK",
     "created_at": "2025-10-29T22:36:21.728Z"
+  },
+  {
+    "username": "KingStoreKeren",
+    "password": "$2a$10$rbHPetJE3NKnEM1Zti4Qpem4mdj.YrLxQGhH9ht6/7Z52HLRQbve6",
+    "created_at": "2025-10-29T22:37:44.192Z"
   }
 ]
